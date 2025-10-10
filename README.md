@@ -27,7 +27,7 @@ _Copyright © 2025 GauGoth Corp. All rights reserved._
 
 Visit our website or our GitHub profile to see our projects: 
 - [GauGoth Corp.](http://gaugoth.corp.free.fr/)
-- [GauGoth Corp. on GitHub](https://github.com/GauGoth-Corp).
+- [GauGoth Corp. on GitHub](https://github.com/GauGoth-Corp)
 
 ## Contact
 If you have any questions or feedback, feel free to contact us. We are always happy to answer! [Contact Us](http://gaugoth.corp.free.fr/en/credits/contact/?subject=Auto%20Medias%20Downloader%20v1.3%20question/feedback).
