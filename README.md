@@ -1,5 +1,4 @@
 <img src="Auto-Medias-Downloader-v1.3/amd1.3/sources/amd-icon.png" alt="GauGoth Corp. Logo" width="100"/>
-<p>&nbsp;</p>
 
 -----
 # Auto Medias Downloader v1.3
