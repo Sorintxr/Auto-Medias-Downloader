@@ -9,15 +9,14 @@ It uses yt-dlp, a command-line software which downloads medias from YouTube and 
 ## Download it!
 
 **You can download the latest version of Auto Medias Downloader here: 
-[[Auto-Medias-Downloader-v1.3.zip](http://gaugoth.corp.free.fr/others/Auto-Medias-Downloader-v1.3.zip)].**
+[[Auto-Medias-Downloader-v1.3.zip](http://gaugoth.corp.free.fr/others/Auto-Medias-Downloader-v1.3.zip)]. The installation process is automatic and included in the program.**
 
 **Looking for the full documentation? Read the README.txt file:
 [[README.txt](Auto-Medias-Downloader-v1.3)]**
 
 ## More help
-- For more information about installation and yt-dlp, read the following post: [Reddit Post](https://www.reddit.com/r/AutoHotkey/comments/15q6m3j/script_to_download_youtube_videos_and_playlists/).
 
-- And the official yt-dlp documentation: [Documentation](https://github.com/yt-dlp/yt-dlp#installation).
+- For more information about yt-dlp, visit the official yt-dlp documentation: [Documentation](https://github.com/yt-dlp/yt-dlp#installation).
 
 
 ## License
