@@ -42,4 +42,5 @@ Copyright (c) 2021-2025 GauGoth Corp. All rights reserved.
 
 -----------------------------
 yt-dlp is an open source feature-rich command-line audio/video downloader. For more information, visit its GitHub repository: https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#readme
+
 All other copyrights and trademarks are properties of their respective owners.
