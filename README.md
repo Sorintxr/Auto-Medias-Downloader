@@ -1,3 +1,7 @@
+<img src="Auto-Medias-Downloader-v1.3/amd1.3/sources/amd-icon.png" alt="GauGoth Corp. Logo" width="100"/>
+<p>&nbsp;</p>
+
+-----
 # Auto Medias Downloader v1.3
 Auto Medias Downloader is a powerful medias downloading tool. You found a music or a video on Youtube? This tool helps you easily to download it in the best quality possible! It can even download entire playlists.
 
