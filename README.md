@@ -11,7 +11,7 @@ It uses yt-dlp, a command-line software which downloads medias from YouTube and 
 ## Download it!
 
 **You can download the latest version of Auto Medias Downloader here: 
-[[Auto-Medias-Downloader-v1.3.zip](http://gaugoth.corp.free.fr/others/Auto-Medias-Downloader-v1.3.zip)]. The installation process is automatic and included in the program.**
+[[Auto-Medias-Downloader-v1.3.zip](https://galaxielointaine.alwaysdata.net/others/Auto-Medias-Downloader-v1.3.zip)]. The installation process is automatic and included in the program.**
 
 **Looking for the full documentation? Read the README.txt file:
 [[README.txt](Auto-Medias-Downloader-v1.3)]**
