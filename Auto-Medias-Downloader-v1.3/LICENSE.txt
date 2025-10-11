@@ -24,7 +24,7 @@ It uses yt-dlp, an open-source command-line software which downloads medias from
 -----------------------------
 THIS DOCUMENT AUTHORIZES YOU TO USE THE SOFTWARE AUTO MEDIAS DOWNLOADER FOR WINDOWS (v1.3).
 
-- This program has been distributed to you by the GauGoth Corp. organization. All rights reserved. Any reproduction, duplication, or copy—complete or partial—without the agreement of GauGoth Corp. is strictly forbidden.
+- This program has been distributed to you by the GauGoth Corp. organization. All rights reserved. Any reproduction, duplication, or copy, complete or partial, without the agreement of GauGoth Corp. is strictly forbidden.
 - Auto Medias Downloader and GauGoth Corp.'s goal is not to make money, but simply to have fun and share its creations. All GauGoth Corp. products are free of charge.
 
 ## Warranty Disclaimer ##
