@@ -14,7 +14,7 @@ It uses yt-dlp, an open-source command-line software which downloads medias from
 [[Auto-Medias-Downloader-v1.3.zip](https://galaxielointaine.alwaysdata.net/others/Auto-Medias-Downloader-v1.3.zip)]. The installation process is automatic and included in the program.**
 
 **Looking for the full documentation? Read the DOCUMENTATION.md file:
-[[DOCUMENTATION.md](Auto-Medias-Downloader-v1.3/DOCUMENTATION.md)]**
+[[DOCUMENTATION.md](DOCUMENTATION.md)]**
 
 ## More help
 

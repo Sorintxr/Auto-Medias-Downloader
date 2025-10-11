@@ -17,7 +17,7 @@ It uses yt-dlp, an open-source command-line software which downloads medias from
 -----------------------------
 **Please note**
 - This program works only on Windows 10 and 11.
-- For more information about Auto Medias Downloader and how it works, read the [[DOCU.md](DOCU.md)] file or type 'help' in the program.
+- For more information about Auto Medias Downloader and how it works, read the [[DOCUMENTATION.md](DOCUMENTATION.md)] file or type 'help' in the program.
 - For more information about GauGoth Corp., visit our website: http://gaugoth.corp.free.fr/
 
 ## License & Authorizations For Use

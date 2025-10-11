@@ -11,9 +11,14 @@ Auto Medias Downloader is a powerful medias downloading tool. You found a music 
 
 It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 
------------------------------
-Please note:
+Please note:<br/>
 This program works only on Windows 10 and 11.
+
+-----------------------------
+
+Need to (re)download Auto Medias Downloader? Get the latest version here: 
+
+[[Auto Medias Downloader latest release](https://github.com/GauGoth-Corp/Auto-Medias-Downloader?tab=readme-ov-file#auto-medias-downloader-v13)]
 
 ## HOW CAN I RUN THE PROGRAM
 
@@ -38,7 +43,7 @@ When you are in the program:
 - To clean the screen, type **`cls`**.
 - To (re)install this program, type **`install`**.
 - To uninstall this program and yt-dlp, type **`uninstall`**.
-- To get this help, type **`help`**.
+- To get help, type **`help`**.
 
 - To change the saving folder path, type **`saveto`**.
 - The default saving folder is **`C:\Users\%USERNAME%\Music`**.

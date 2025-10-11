@@ -12,9 +12,13 @@ Auto Medias Downloader is a powerful medias downloading tool. You found a music 
 
 It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 
------------------------------
 Please note:
 This program works only on Windows 10 and 11.
+-----------------------------
+
+Need to (re)download Auto Medias Downloader? Get the latest version here:
+
+https://github.com/GauGoth-Corp/Auto-Medias-Downloader?tab=readme-ov-file#auto-medias-downloader-v13
 
 *********************************************************************
 #### HOW CAN I RUN THE PROGRAM ####

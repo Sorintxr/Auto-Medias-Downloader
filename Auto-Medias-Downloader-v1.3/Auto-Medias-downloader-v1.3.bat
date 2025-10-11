@@ -390,6 +390,8 @@ echo.
 echo It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 echo Please note: this program works only on Windows 10 and 11.
 echo.
+echo Need to (re)download Auto Medias Downloader? Get the latest version here: https://github.com/GauGoth-Corp/Auto-Medias-Downloader?tab=readme-ov-file#auto-medias-downloader-v13
+echo.
 echo For information about the license and terms of use, type "license".
 echo.
 powershell -Command "Write-Host '### HOW TO USE ###' -ForegroundColor Cyan"
