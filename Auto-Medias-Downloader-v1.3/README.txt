@@ -1,16 +1,16 @@
 Auto Medias Downloader
 Version 1.3
 Readme file
-09/10/2025
+11/10/2025
 
 *********************************************************************
-Thank you for downloading Auto Medias Downloader for Windows (v. 1.3). 
+Thank you for downloading Auto Medias Downloader for Windows (v1.3). 
 
 -----------------------------
 Auto Medias Downloader is a powerful medias downloading tool. You found a music or a video that you love? This tool helps you easily to download it in the best quality possible! It can even download entire playlists.
 **Caution: This tool is intended for personal use only. Always respect the copyright laws in your country, and policies of the websites you download from.**
 
-It uses yt-dlp, a command-line software which downloads medias from YouTube and other video sites.
+It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 
 -----------------------------
 Please note:
@@ -46,7 +46,7 @@ When you are in the program:
 - To get this help, type "help".
 
 - To change the saving folder path, type "saveto".
-- The default saving folder is "C:\Users\GauGoth\Music".
+- The default saving folder is "C:\Users\%USERNAME%\Music".
 
 ### INFORMATION ABOUT SAVE FORMATS ###
 - Audio mode: MP3 format

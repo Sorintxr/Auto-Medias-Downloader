@@ -13,8 +13,8 @@ It uses yt-dlp, an open-source command-line software which downloads medias from
 **You can download the latest version of Auto Medias Downloader here: 
 [[Auto-Medias-Downloader-v1.3.zip](https://galaxielointaine.alwaysdata.net/others/Auto-Medias-Downloader-v1.3.zip)]. The installation process is automatic and included in the program.**
 
-**Looking for the full documentation? Read the README.txt file:
-[[README.txt](Auto-Medias-Downloader-v1.3)]**
+**Looking for the full documentation? Read the DOCUMENTATION.md file:
+[[DOCUMENTATION.md](Auto-Medias-Downloader-v1.3/DOCUMENTATION.md)]**
 
 ## More help
 
@@ -24,8 +24,8 @@ It uses yt-dlp, an open-source command-line software which downloads medias from
 ## License
 _Copyright © 2025 GauGoth Corp. All rights reserved._
 
-**You can read the License in the LICENSE.txt file:
-[[LICENSE.txt](Auto-Medias-Downloader-v1.3/LICENSE.txt)]**
+**You can read the License in the LICENSE.md file:
+[[LICENSE.md](LICENSE.md)]**
 
 Visit our website or our GitHub profile to see our projects: 
 - [GauGoth Corp.](http://gaugoth.corp.free.fr/)

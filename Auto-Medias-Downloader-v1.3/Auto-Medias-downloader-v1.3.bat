@@ -35,10 +35,10 @@
 REM Active le delayed expansion pour permettre l'expansion des variables dans les boucles
 setlocal enabledelayedexpansion
 REM #### NOTE pour l'ensemble du programme : une variable définie au sein d'un bloc (goto) récupérée dans le fichier config.ini ou dans l'interface de sélection n'est pas accessible en dehors de ce bloc. On doit donc à chaque fois la redéfinir dans une nouvelle variable (ex: savePath, AASavePath, BBsavePath, etc.) pour pouvoir l'utiliser en dehors du bloc. (Oui c'est chiant mais c'est comme ça avec le batch)...
-title Audio Medias Downloader (v. 1.3) - GauGoth Corp.
+title Audio Medias Downloader (v1.3) - GauGoth Corp.
 
 echo Copyright (c) 2025 GauGoth Corp. All rights reserved.
-echo Welcome to Auto Medias Downloader for Windows (v. 1.3). Need help? Type 'help'!
+echo Welcome to Auto Medias Downloader for Windows (v1.3). Need help? Type 'help'!
 powershell -Command "Write-Host '[INFO] To switch between audio and video mode, type ""a"""/"""audio""" or """v"""/"""video""" respectively.' -ForegroundColor Yellow"
 echo.
 
@@ -387,7 +387,7 @@ powershell -Command "Write-Host '#### HELP ####' -ForegroundColor Cyan"
 echo Auto Medias Downloader is a powerful medias downloading tool. You found a music or a video that you love? This tool helps you easily to download it in the best quality possible! It can even download entire playlists.
 powershell -Command "Write-Host '[CAUTION] This tool is intended for personal use only. Always respect the copyright laws in your country, and policies of the websites you download from.' -ForegroundColor Blue"
 echo.
-echo It uses yt-dlp, a command-line software which downloads medias from YouTube and other video sites.
+echo It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 echo Please note: this program works only on Windows 10 and 11.
 echo.
 echo For information about the license and terms of use, type "license".
