@@ -6,7 +6,7 @@ Auto Medias Downloader is a powerful medias downloading tool. You found a music 
 
 **Caution: This tool is intended for personal use only. Always respect the copyright laws in your country, and policies of the websites you download from.**
 
-It uses yt-dlp, a command-line software which downloads medias from YouTube and other video sites.
+It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 
 ## Download it!
 
