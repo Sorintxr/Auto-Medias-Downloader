@@ -351,7 +351,9 @@ goto :DOWNLOAD
 REM pour help
 :HELP
 powershell -Command "Write-Host '#### HELP ####' -ForegroundColor Cyan"
-echo Auto Medias Downloader is a powerful medias downloading tool. You found a music or a video on Youtube? This tool helps you easily to download it in the best quality possible. It can even download entire playlists.
+echo Auto Medias Downloader is a powerful medias downloading tool. You found a music or a video that you love? This tool helps you easily to download it in the best quality possible! It can even download entire playlists.
+powershell -Command "Write-Host '[CAUTION] This tool is intended for personal use only. Always respect the copyright laws in your country, and policies of the websites you download from.' -ForegroundColor Blue"
+echo.
 echo It uses yt-dlp, a command-line software which downloads medias from YouTube and other video sites.
 echo Please note: this program works only on Windows 10 and 11.
 echo.
