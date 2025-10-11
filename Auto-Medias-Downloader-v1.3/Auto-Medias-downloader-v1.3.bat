@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZkg0
-::ZQ05rAF9IBncCkqN+0xwdVsFAlfi
+::cxY6rQJ7JhzQF1fEqQJhZkgaHWQ=
+::ZQ05rAF9IBncCkqN+0xwdVsFAlfMbQs=
 ::ZQ05rAF9IAHYFVzEqQIRPQ9bDCmHOGK7FfU45//14+WGpkgPNA==
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCWXKGT6K7AY4enor86ItUMRW+M7fZ27
 ::fBEirQZwNQPfEVWB+kM9LVsJDCWXKGT6K7AY4enor86ItUMRW+M7fZ27
@@ -35,10 +35,10 @@
 REM Active le delayed expansion pour permettre l'expansion des variables dans les boucles
 setlocal enabledelayedexpansion
 REM #### NOTE pour l'ensemble du programme : une variable définie au sein d'un bloc (goto) récupérée dans le fichier config.ini ou dans l'interface de sélection n'est pas accessible en dehors de ce bloc. On doit donc à chaque fois la redéfinir dans une nouvelle variable (ex: savePath, AASavePath, BBsavePath, etc.) pour pouvoir l'utiliser en dehors du bloc. (Oui c'est chiant mais c'est comme ça avec le batch)...
-title Audio Medias Downloader (v1.3) - GauGoth Corp.
+title Audio Medias Downloader (v1.3.1) - GauGoth Corp.
 
 echo Copyright (c) 2025 GauGoth Corp. All rights reserved.
-echo Welcome to Auto Medias Downloader for Windows (v1.3). Need help? Type 'help'!
+echo Welcome to Auto Medias Downloader for Windows (v1.3.1). Need help? Type 'help'!
 powershell -Command "Write-Host '[INFO] To switch between audio and video mode, type ""a"""/"""audio""" or """v"""/"""video""" respectively.' -ForegroundColor Yellow"
 echo.
 
@@ -390,7 +390,7 @@ echo.
 echo It uses yt-dlp, an open-source command-line software which downloads medias from lots of audio and video websites.
 echo Please note: this program works only on Windows 10 and 11.
 echo.
-echo Need to (re)download Auto Medias Downloader? Get the latest version here: https://github.com/GauGoth-Corp/Auto-Medias-Downloader?tab=readme-ov-file#auto-medias-downloader-v13
+echo Need to (re)download Auto Medias Downloader? Get the latest version here: https://github.com/GauGoth-Corp/Auto-Medias-Downloader
 echo.
 echo For information about the license and terms of use, type "license".
 echo.

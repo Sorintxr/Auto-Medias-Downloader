@@ -1,5 +1,5 @@
 # Auto Medias Downloader
-<i>Version 1.3<br/>
+<i>Version 1.3.1<br/>
 **Documentation file**<br/>
 11/10/2025</i>
 
@@ -18,7 +18,7 @@ This program works only on Windows 10 and 11.
 
 Need to (re)download Auto Medias Downloader? Get the latest version here: 
 
-[[Auto Medias Downloader latest release](https://github.com/GauGoth-Corp/Auto-Medias-Downloader?tab=readme-ov-file#auto-medias-downloader-v13)]
+[[Auto Medias Downloader latest release](https://github.com/GauGoth-Corp/Auto-Medias-Downloader)]
 
 ## HOW CAN I RUN THE PROGRAM
 
